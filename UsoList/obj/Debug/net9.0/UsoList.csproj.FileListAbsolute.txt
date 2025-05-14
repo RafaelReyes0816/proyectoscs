@@ -1,0 +1,14 @@
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/bin/Debug/net9.0/UsoList
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/bin/Debug/net9.0/UsoList.deps.json
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/bin/Debug/net9.0/UsoList.runtimeconfig.json
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/bin/Debug/net9.0/UsoList.dll
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/bin/Debug/net9.0/UsoList.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/UsoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/UsoList.AssemblyInfoInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/UsoList.AssemblyInfo.cs
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/UsoList.csproj.CoreCompileInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/UsoList.dll
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/refint/UsoList.dll
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/UsoList.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/UsoList.genruntimeconfig.cache
+/home/rafaelreyes/Documentos/Proyectosc#/UsoList/obj/Debug/net9.0/ref/UsoList.dll

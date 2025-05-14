@@ -1,0 +1,3 @@
+//Crear un nuevo proyecto de consola
+//dotnet new console -n Nombre del proyecto
+//Ejecutar código dotnet run

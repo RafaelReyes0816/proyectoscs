@@ -1,0 +1,14 @@
+/home/rafaelreyes/Documentos/Proyectosc#/clases/bin/Debug/net9.0/clases
+/home/rafaelreyes/Documentos/Proyectosc#/clases/bin/Debug/net9.0/clases.deps.json
+/home/rafaelreyes/Documentos/Proyectosc#/clases/bin/Debug/net9.0/clases.runtimeconfig.json
+/home/rafaelreyes/Documentos/Proyectosc#/clases/bin/Debug/net9.0/clases.dll
+/home/rafaelreyes/Documentos/Proyectosc#/clases/bin/Debug/net9.0/clases.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/clases.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/clases.AssemblyInfoInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/clases.AssemblyInfo.cs
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/clases.csproj.CoreCompileInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/clases.dll
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/refint/clases.dll
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/clases.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/clases.genruntimeconfig.cache
+/home/rafaelreyes/Documentos/Proyectosc#/clases/obj/Debug/net9.0/ref/clases.dll
