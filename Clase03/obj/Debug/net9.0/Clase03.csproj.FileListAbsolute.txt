@@ -1,0 +1,15 @@
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/bin/Debug/net9.0/Clase03
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/bin/Debug/net9.0/Clase03.deps.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/bin/Debug/net9.0/Clase03.runtimeconfig.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/bin/Debug/net9.0/Clase03.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/bin/Debug/net9.0/Clase03.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/Clase03.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/Clase03.AssemblyInfoInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/Clase03.AssemblyInfo.cs
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/Clase03.csproj.CoreCompileInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/Clase03.sourcelink.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/Clase03.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/refint/Clase03.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/Clase03.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/Clase03.genruntimeconfig.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase03/obj/Debug/net9.0/ref/Clase03.dll
