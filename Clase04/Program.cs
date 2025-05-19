@@ -12,7 +12,7 @@ namespace Clase04
 
             while (!salir)
             {
-                Console.Clear(); // Limpia la consola antes de mostrar el menú
+                Console.Clear();
                 Console.WriteLine("--- Menú de Libros ---");
                 Console.WriteLine("1. Agregar libro");
                 Console.WriteLine("2. Quitar libro");
