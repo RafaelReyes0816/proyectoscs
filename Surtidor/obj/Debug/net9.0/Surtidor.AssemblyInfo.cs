@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Surtidor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3807f6596e165af8ae9695b076f9c05d35663375")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d7df30f761d77f1483ec52db521ddfa65025bac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Surtidor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Surtidor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
