@@ -1,0 +1,15 @@
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/Surtidor.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/Surtidor.AssemblyInfoInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/Surtidor.AssemblyInfo.cs
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/Surtidor.csproj.CoreCompileInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/Surtidor.sourcelink.json
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/bin/Debug/net9.0/Surtidor
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/bin/Debug/net9.0/Surtidor.deps.json
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/bin/Debug/net9.0/Surtidor.runtimeconfig.json
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/bin/Debug/net9.0/Surtidor.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/bin/Debug/net9.0/Surtidor.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/Surtidor.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/refint/Surtidor.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/Surtidor.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/Surtidor.genruntimeconfig.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Surtidor/obj/Debug/net9.0/ref/Surtidor.dll
