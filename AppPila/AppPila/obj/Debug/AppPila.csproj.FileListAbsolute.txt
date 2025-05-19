@@ -1,0 +1,9 @@
+C:\Users\Toshiba\source\repos\AppPila\AppPila\bin\Debug\AppPila.exe.config
+C:\Users\Toshiba\source\repos\AppPila\AppPila\bin\Debug\AppPila.exe
+C:\Users\Toshiba\source\repos\AppPila\AppPila\bin\Debug\AppPila.pdb
+C:\Users\Toshiba\source\repos\AppPila\AppPila\obj\Debug\AppPila.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\AppPila\AppPila\obj\Debug\AppPila.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\AppPila\AppPila\obj\Debug\AppPila.exe
+C:\Users\Toshiba\source\repos\AppPila\AppPila\obj\Debug\AppPila.pdb
+C:\Users\Toshiba\source\repos\AppPila\AppPila\obj\Debug\AppPila.frmPruebaPila.resources
+C:\Users\Toshiba\source\repos\AppPila\AppPila\obj\Debug\AppPila.csproj.GenerateResource.cache
