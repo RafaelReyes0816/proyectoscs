@@ -1,6 +1,6 @@
 internal class ListaSimple<T> : IListaEnlazada<T>
 {
-    private NodoSimple<T> Inicio;
+    private NodoSimple<T>? Inicio;
     private int cantidad;
     public ListaSimple()
     {
@@ -74,6 +74,7 @@ internal class ListaSimple<T> : IListaEnlazada<T>
     }
     public T EliminarElemento(int indice)
     {
+        // Validar índice y lista vacía
         if (EsVacio() || indice < 0 || indice >= this.cantidad)
             throw new Exception("No se puede realizar la eliminación");
 
@@ -81,17 +82,24 @@ internal class ListaSimple<T> : IListaEnlazada<T>
 
         if (indice == 0)
         {
-            // Eliminar el primer nodo
+            // Elimina el primer nodo
+            if (this.Inicio == null)
+                throw new Exception("La lista está vacía");
             valorEliminado = this.Inicio.Valor;
             this.Inicio = this.Inicio.Siguiente;
         }
         else
         {
-            NodoSimple<T> anterior = this.Inicio;
+            // Elimina un nodo que no es el primero (puede ser del medio o final)
+            NodoSimple<T>? anterior = this.Inicio;
             for (int i = 0; i < indice - 1; i++)
             {
+                if (anterior == null)
+                    throw new Exception("Nodo anterior inesperadamente nulo");
                 anterior = anterior.Siguiente;
             }
+            if (anterior?.Siguiente == null)
+                throw new Exception("Nodo a eliminar inesperadamente nulo");
             NodoSimple<T> nodoAEliminar = anterior.Siguiente;
             valorEliminado = nodoAEliminar.Valor;
             anterior.Siguiente = nodoAEliminar.Siguiente;
@@ -99,5 +107,24 @@ internal class ListaSimple<T> : IListaEnlazada<T>
 
         this.cantidad--;
         return valorEliminado;
+    }
+
+    public T ObtenerElemento(int indice)
+    {
+        // Validación de índice para evitar errores
+        if (indice < 0 || indice >= this.cantidad)
+            throw new IndexOutOfRangeException("Índice fuera de rango");
+
+        NodoSimple<T>? actual = this.Inicio;
+        for (int i = 0; i < indice; i++)
+        {
+            // Validación para evitar referencias nulas
+            if (actual == null)
+                throw new Exception("Nodo inesperadamente nulo");
+            actual = actual.Siguiente;
+        }
+        if (actual == null)
+            throw new Exception("Nodo inesperadamente nulo");
+        return actual.Valor;
     }
 }
