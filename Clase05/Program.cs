@@ -10,6 +10,8 @@
 
         Console.WriteLine($"Cantidad: {listaEnteros.Cantidad()}");
 
+        Console.WriteLine($"Buscar 14: {listaEnteros.BuscarElemento(14)}");
+
         // Mostrar elementos con índices
         Console.WriteLine("Elementos con índices:");
         for (int i = 0; i < listaEnteros.Cantidad(); i++)

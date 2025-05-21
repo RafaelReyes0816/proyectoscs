@@ -9,7 +9,21 @@ internal class ListaSimple<T> : IListaEnlazada<T>
     }
     public int BuscarElemento(T elemento)
     {
-        throw new NotImplementedException();
+        int indice = -1;
+        NodoSimple<T> temp = this.Inicio;
+        for (int i = 0; i < this.cantidad; i++)
+        {
+            if (elemento.Equals(temp.Valor))
+            {
+                indice = i;
+                break;
+            }
+            else
+            {
+                temp = temp.Siguiente;
+            }
+        }
+        return indice;
     }
 
     public int Cantidad()
@@ -65,12 +79,24 @@ internal class ListaSimple<T> : IListaEnlazada<T>
     }
     public void ReemplazarValor(int indice, T elemento)
     {
-        throw new NotImplementedException();
+        if (EsVacio() || indice < 0 || indice > cantidad - 1)
+        {
+            throw new Exception("Indice fuera de rango");
+        }
+        else
+        {
+            NodoSimple<T> Temp = this.Inicio;
+            for (int i = 0; i < indice; i++)
+            {
+                Temp = Temp.Siguiente;
+            }
+            Temp.Valor = elemento;
+        }
     }
 
     public void VaciarLista()
     {
-        throw new NotImplementedException();
+        this.Inicio = null;
     }
     public T EliminarElemento(int indice)
     {
