@@ -12,6 +12,13 @@
 
         Console.WriteLine($"Buscar 14: {listaEnteros.BuscarElemento(14)}");
 
+        //ListaCricular
+        ListaCircular<int> listaCircular = new ListaCircular<int>();
+        listaCircular.AgregarFinal(10);
+        listaCircular.AgregarFinal(20);
+        listaCircular.AgregarFinal(30);
+        listaCircular.AgregarInicio(40);
+
         // Mostrar elementos con índices
         Console.WriteLine("Elementos con índices:");
         for (int i = 0; i < listaEnteros.Cantidad(); i++)
@@ -39,5 +46,28 @@
         }
 
         Console.WriteLine(listaEnteros.MostrarElementos());
+
+        // Mostrar elementos de la lista circular
+        Console.WriteLine("Elementos de la lista circular:");
+        listaCircular.RecorrerLista();
+
+        // Eliminar un elemento de la lista circular
+        Console.Write("¿Qué valor deseas eliminar de la lista circular? ");
+        string? inputCircular = Console.ReadLine();
+        if (int.TryParse(inputCircular, out int valorEliminar))
+        {
+            if (listaCircular.EliminarElemento(valorEliminar))
+                Console.WriteLine($"Elemento {valorEliminar} eliminado.");
+            else
+                Console.WriteLine("Elemento no encontrado.");
+        }
+        else
+        {
+            Console.WriteLine("Valor inválido.");
+        }
+
+        // Mostrar la lista circular después de eliminar
+        Console.WriteLine("Lista circular después de eliminar:");
+        listaCircular.RecorrerLista();
     }
 }
