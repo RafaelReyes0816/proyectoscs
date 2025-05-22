@@ -1,0 +1,7 @@
+C:\Users\Toshiba\source\repos\AppListaSimple\AppListaSimple\bin\Debug\AppListaSimple.exe.config
+C:\Users\Toshiba\source\repos\AppListaSimple\AppListaSimple\bin\Debug\AppListaSimple.exe
+C:\Users\Toshiba\source\repos\AppListaSimple\AppListaSimple\bin\Debug\AppListaSimple.pdb
+C:\Users\Toshiba\source\repos\AppListaSimple\AppListaSimple\obj\Debug\AppListaSimple.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\AppListaSimple\AppListaSimple\obj\Debug\AppListaSimple.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\AppListaSimple\AppListaSimple\obj\Debug\AppListaSimple.exe
+C:\Users\Toshiba\source\repos\AppListaSimple\AppListaSimple\obj\Debug\AppListaSimple.pdb
