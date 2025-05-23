@@ -1,3 +1,4 @@
+/*
 internal class ListaDoble<T> : IListaDoble<T>
 {
     private NodoDoble<T> Inicio;
@@ -95,3 +96,4 @@ internal class ListaDoble<T> : IListaDoble<T>
         Console.WriteLine();
     }
 }
+*/
