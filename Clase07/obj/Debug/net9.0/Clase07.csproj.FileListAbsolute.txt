@@ -1,0 +1,15 @@
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/Clase07.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/Clase07.AssemblyInfoInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/Clase07.AssemblyInfo.cs
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/Clase07.csproj.CoreCompileInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/Clase07.sourcelink.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/bin/Debug/net9.0/Clase07
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/bin/Debug/net9.0/Clase07.deps.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/bin/Debug/net9.0/Clase07.runtimeconfig.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/bin/Debug/net9.0/Clase07.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/bin/Debug/net9.0/Clase07.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/Clase07.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/refint/Clase07.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/Clase07.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/Clase07.genruntimeconfig.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase07/obj/Debug/net9.0/ref/Clase07.dll
