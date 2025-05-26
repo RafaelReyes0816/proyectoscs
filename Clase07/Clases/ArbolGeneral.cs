@@ -45,15 +45,18 @@ internal class ArbolGeneral<T>
 
     public bool EliminarNodo(T valor)
     {
-        if (Raiz.Valor.Equals(valor))
-            return false; // No se puede eliminar la raíz
-
-        return EliminarRecursivo(Raiz, valor);
+        if (this.Raiz == null) return false;
+        if (this.Raiz.Valor.Equals(valor))
+        {
+            this.Raiz = null;
+            return true;
+        }
+        return EliminarRecursivo(this.Raiz, valor);
     }
 
     public bool EliminarRecursivo(NodoGeneral<T> nodo, T valor)
     {
-        foreach (var hijo in nodo.Hijos.ToList())
+        foreach (NodoGeneral<T> hijo in nodo.Hijos)
         {
             if (hijo.Valor.Equals(valor))
             {
@@ -61,7 +64,9 @@ internal class ArbolGeneral<T>
                 return true;
             }
             if (EliminarRecursivo(hijo, valor))
+            {
                 return true;
+            }
         }
         return false;
     }
