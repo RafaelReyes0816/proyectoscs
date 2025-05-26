@@ -1,0 +1,15 @@
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/Clase08.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/Clase08.AssemblyInfoInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/Clase08.AssemblyInfo.cs
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/Clase08.csproj.CoreCompileInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/Clase08.sourcelink.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/bin/Debug/net9.0/Clase08
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/bin/Debug/net9.0/Clase08.deps.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/bin/Debug/net9.0/Clase08.runtimeconfig.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/bin/Debug/net9.0/Clase08.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/bin/Debug/net9.0/Clase08.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/Clase08.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/refint/Clase08.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/Clase08.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/Clase08.genruntimeconfig.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase08/obj/Debug/net9.0/ref/Clase08.dll
