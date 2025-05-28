@@ -1,0 +1,15 @@
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/Clase09.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/Clase09.AssemblyInfoInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/Clase09.AssemblyInfo.cs
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/Clase09.csproj.CoreCompileInputs.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/Clase09.sourcelink.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/bin/Debug/net9.0/Clase09
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/bin/Debug/net9.0/Clase09.deps.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/bin/Debug/net9.0/Clase09.runtimeconfig.json
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/bin/Debug/net9.0/Clase09.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/bin/Debug/net9.0/Clase09.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/Clase09.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/refint/Clase09.dll
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/Clase09.pdb
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/Clase09.genruntimeconfig.cache
+/home/rafaelreyes/Documentos/Proyectosc#/Clase09/obj/Debug/net9.0/ref/Clase09.dll
